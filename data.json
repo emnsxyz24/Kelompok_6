@@ -1,0 +1,458 @@
+[
+  {
+    "toko": "Go Frozen Toko Bahan Kue",
+    "barang": [
+      {
+        "nama": "Tisu Jolly 250 Lembar 2 Lapis",
+        "jumlah": 7,
+        "harga": 7500,
+        "diskon": 0,
+        "gambar": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/12/21/f101ab3a-c5f5-4a69-b7bf-9f3e3e017544.jpg",
+        "isCheck": false
+      },
+      {
+        "nama": "Tisu Nice 180 Lembar 2 Lapis",
+        "jumlah": 4,
+        "harga": 6300,
+        "diskon": 0,
+        "gambar": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/12/20/9e3eba49-9a78-4ef8-b8e8-fe9ff0d1fa6f.jpg",
+        "isCheck": false
+      },
+      {
+        "nama": "Indomie Kuah Soto Medan 70gr Isi 5",
+        "jumlah": 1,
+        "harga": 15000,
+        "diskon": 0,
+        "gambar": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/12/1/d1183cf5-4c59-4d25-ae1b-3bfe3c0f27dd.jpg",
+        "isCheck": false
+      },
+      {
+        "nama": "koepoe koepoe garlic powder/ bawang putih 130gr",
+        "jumlah": 1,
+        "harga": 15000,
+        "diskon": 0,
+        "gambar": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/12/1/461faf5f-f459-46c1-afa0-ea698824e066.jpg",
+        "isCheck": false
+      },
+      {
+        "nama": "Indomie Goreng Mie Aceh 90gr 1 dus",
+        "jumlah": 1,
+        "harga": 116000,
+        "diskon": 0,
+        "gambar": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/10/13/7dec5e37-af1a-407c-adb4-eb73c7d2e74e.jpg",
+        "isCheck": false
+      }
+    ],
+    "isCheck": false
+  },
+  {
+    "toko": "Toko Akbar Paytren",
+    "barang": [
+      {
+        "nama": "Bangku Kaki Sedang",
+        "jumlah": 5,
+        "harga": 25000,
+        "diskon": 0,
+        "gambar": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2023/1/19/466f2554-2023-4f1b-a7b8-24c4d8ff0811.jpg",
+        "isCheck": false
+      },
+      {
+        "nama": "Teflon 28 cm calypso",
+        "jumlah": 6,
+        "harga": 90000,
+        "diskon": 25,
+        "gambar": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2023/1/19/8b327b29-4d4e-42bd-808a-ae09c3aa8929.jpg",
+        "isCheck": false
+      },
+      {
+        "nama": "Gunting Stanless Tebal Gagang Merah",
+        "jumlah": 7,
+        "harga": 15000,
+        "diskon": 0,
+        "gambar": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2023/1/17/692d22b3-c706-46a7-b0d3-279fa65d0c48.jpg",
+        "isCheck": false
+      }
+    ],
+    "isCheck": false
+  },
+  {
+    "toko": "Bawazier Store Toko Herbal Medan",
+    "barang": [
+      {
+        "nama": "Sari Kurma Madu Angkak 470 g darusyifa",
+        "jumlah": 2,
+        "harga": 39000,
+        "diskon": 0,
+        "gambar": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/3/29/9682ea3e-9adb-4cb6-8a66-d7fa6a7d116a.jpg",
+        "isCheck": false
+      },
+      {
+        "nama": "Madu Hutan Mujahid 500 gr",
+        "jumlah": 3,
+        "harga": 40000,
+        "diskon": 10,
+        "gambar": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/3/29/d2708373-6090-4545-aec5-bcb3030ed1e6.jpg",
+        "isCheck": false
+      },
+      {
+        "nama": "Madu Hitam Super Mujahid 1 kg + propolis",
+        "jumlah": 7,
+        "harga": 85000,
+        "diskon": 0,
+        "gambar": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/6/1/7a96fa44-06e1-4ce5-b171-062a28f55c0f.jpg",
+        "isCheck": false
+      },
+      {
+        "nama": "Bumbu Shan Bombay Biryani 60 gr",
+        "jumlah": 1,
+        "harga": 25000,
+        "diskon": 0,
+        "gambar": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2021/10/9/deaaa4dc-7c0d-4cd3-a47a-d56b06b69273.jpg",
+        "isCheck": false
+      },
+      {
+        "nama": "teko mewah zam zam set/teko Arab/teko Turki stainless stell",
+        "jumlah": 1,
+        "harga": 450000,
+        "diskon": 0,
+        "gambar": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2021/11/11/afd7e660-4606-49e9-8ae3-c3a81a7c3ee1.jpg",
+        "isCheck": false
+      }
+    ],
+    "isCheck": false
+  },
+  {
+    "toko": "Toko Rezeki Dong Shan",
+    "barang": [
+      {
+        "nama": "Tempelan Kertas Stiker Holo",
+        "jumlah": 2,
+        "harga": 4000,
+        "diskon": 0,
+        "gambar": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2023/1/18/2bfaa817-d253-42f0-b0b6-ace6632a9c2e.jpg",
+        "isCheck": false
+      },
+      {
+        "nama": "Kalender Harian Mini Indonesia",
+        "jumlah": 3,
+        "harga": 27000,
+        "diskon": 0,
+        "gambar": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/12/2/07d38850-40d1-43ee-a255-94a83b641da0.jpg",
+        "isCheck": false
+      },
+      {
+        "nama": "Lilin Putih 30 Jam",
+        "jumlah": 3,
+        "harga": 75000,
+        "diskon": 5,
+        "gambar": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/12/4/cab35139-63e2-4cdc-879a-8ea03c6e3186.jpg",
+        "isCheck": false
+      }
+    ],
+    "isCheck": false
+  },
+  {
+    "toko": "Toko semua elektronik",
+    "barang": [
+      {
+        "nama": "kipas karakter welhome/desk fan",
+        "jumlah": 2,
+        "harga": 80000,
+        "diskon": 0,
+        "gambar": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/8/19/52513660-676a-4920-9c67-5bbb2e877457.jpg",
+        "isCheck": false
+      },
+      {
+        "nama": "Stabilizer listrik sako svc 500 va",
+        "jumlah": 3,
+        "harga": 320000,
+        "diskon": 40,
+        "gambar": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/3/31/155aa1cb-be1e-40c5-bc8c-ba9b6cd349f9.jpg",
+        "isCheck": false
+      },
+      {
+        "nama": "Kipas angin plafon kdk 6 inchi 15tgq",
+        "jumlah": 1,
+        "harga": 300000,
+        "diskon": 0,
+        "gambar": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/5/11/05cff335-a430-4c6c-bdeb-964b795448bd.jpg",
+        "isCheck": false
+      },
+      {
+        "nama": "Water heater ariston 30liter an2r/b 30L pemanas air listrik",
+        "jumlah": 1,
+        "harga": 2700000,
+        "diskon": 0,
+        "gambar": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/5/21/0df68940-1642-475c-be03-6360a5957a74.jpg",
+        "isCheck": false
+      },
+      {
+        "nama": "ceiling fan kdk wz56p 56inch",
+        "jumlah": 1,
+        "harga": 680000,
+        "diskon": 0,
+        "gambar": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/5/16/8ecb38a2-9f9b-4eb3-8336-2fec67186559.jpg",
+        "isCheck": false
+      }
+    ],
+    "isCheck": false
+  },
+  {
+    "toko": "66 toko",
+    "barang": [
+      {
+        "nama": "paper bag sovenir - 15x8x25",
+        "jumlah": 1,
+        "harga": 2500,
+        "diskon": 0,
+        "gambar": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2023/1/10/43e76e31-539a-405a-8e07-e50d6f49670b.jpg",
+        "isCheck": false
+      },
+      {
+        "nama": "Silicone Kitchen Utensil Spatula Cooking 5 in 1 - Merah",
+        "jumlah": 1,
+        "harga": 38000,
+        "diskon": 0,
+        "gambar": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/12/25/6e509765-119c-41f2-bf4a-42382bfef420.jpg",
+        "isCheck": false
+      },
+      {
+        "nama": "kotak /dus /box eflute cake /tart - 22x22x20",
+        "jumlah": 1,
+        "harga": 15000,
+        "diskon": 0,
+        "gambar": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/11/19/a1cf112e-9b69-4bf4-b123-23693010d153.jpg",
+        "isCheck": false
+      }
+    ],
+    "isCheck": false
+  },
+  {
+    "toko": "Laris 'Toko Bahan Kue",
+    "barang": [
+      {
+        "nama": "Tepung sagu aren 500 gram sekardus",
+        "jumlah": 1,
+        "harga": 260000,
+        "diskon": 20,
+        "gambar": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/12/20/8f689116-d186-453b-8310-4f1829df601c.jpg",
+        "isCheck": false
+      },
+      {
+        "nama": "Glostar 550ml",
+        "jumlah": 1,
+        "harga": 40000,
+        "diskon": 0,
+        "gambar": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/12/20/ba4dbbad-47a2-4bd9-adbc-00248e3673f8.jpg",
+        "isCheck": false
+      },
+      {
+        "nama": "Glazie Tiramisu 1 KG Pomas",
+        "jumlah": 1,
+        "harga": 35000,
+        "diskon": 0,
+        "gambar": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/12/20/24b5f8da-0386-4640-8b32-1910c65c5844.jpg",
+        "isCheck": false
+      },
+      {
+        "nama": "Corn Flakes 500 gram",
+        "jumlah": 1,
+        "harga": 55000,
+        "diskon": 0,
+        "gambar": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/12/18/3a3d76e2-b853-4121-8a3d-4b6b63b21f8e.jpg",
+        "isCheck": false
+      },
+      {
+        "nama": "Tepung Segitiga premium 1 kg sekardus",
+        "jumlah": 1,
+        "harga": 180000,
+        "diskon": 0,
+        "gambar": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/12/11/88d93612-80cc-4cb7-8fe1-f5adf0cba05e.jpg",
+        "isCheck": false
+      }
+    ],
+    "isCheck": false
+  },
+  {
+    "toko": "Toko Tamiya KLC",
+    "barang": [
+      {
+        "nama": "COPPERFANG",
+        "jumlah": 1,
+        "harga": 185000,
+        "diskon": 0,
+        "gambar": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/12/25/eec0d5a4-e896-48c9-8811-fb041ca4a574.jpg",
+        "isCheck": false
+      },
+      {
+        "nama": "TOYOTA GAZOO RACING WRT YARIS WRC",
+        "jumlah": 1,
+        "harga": 195000,
+        "diskon": 0,
+        "gambar": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/12/25/ab673e52-7818-49ad-9752-d30132f63858.jpg",
+        "isCheck": false
+      },
+      {
+        "nama": "DCR 01",
+        "jumlah": 1,
+        "harga": 165000,
+        "diskon": 0,
+        "gambar": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/12/5/4f036f2c-041b-40ff-a47b-19818b43643f.jpg",
+        "isCheck": false
+      }
+    ],
+    "isCheck": false
+  },
+  {
+    "toko": "Toko Nanonanoku",
+    "barang": [
+      {
+        "nama": "Plastik Souvenir Permen Shuang Xi Warna PINK Kecil Goodie Bag",
+        "jumlah": 1,
+        "harga": 800,
+        "diskon": 0,
+        "gambar": "https://images.tokopedia.net/img/cache/250-square/VqbcmM/2022/9/21/08ff9ddf-0587-46c5-9110-b0af7898f419.jpg",
+        "isCheck": false
+      },
+      {
+        "nama": "Plastik Souvenir Permen Shuang Xi Warna MERAH Kecil Goodie Bag",
+        "jumlah": 1,
+        "harga": 1000,
+        "diskon": 0,
+        "gambar": "https://images.tokopedia.net/img/cache/250-square/VqbcmM/2022/9/21/580ae900-ff67-43c8-8412-937d1c09374b.jpg",
+        "isCheck": false
+      },
+      {
+        "nama": "[10 bks] Wantex Nilon Pewarna Pakaian/Baju/Tekstil Wantek - Pemutih 24",
+        "jumlah": 10,
+        "harga": 5200,
+        "diskon": 0,
+        "gambar": "https://images.tokopedia.net/img/cache/250-square/VqbcmM/2021/6/4/3dbea3da-f2f4-436f-bbfe-ab180c82e431.jpg",
+        "isCheck": false
+      },
+      {
+        "nama": "Renda Air 4,5 cm Souvenir Lace Per Gulung Craft DIY - 1. PUTIH",
+        "jumlah": 0,
+        "harga": 11990,
+        "diskon": 0,
+        "gambar": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2023/1/18/550265d8-c69d-4cb0-8a3f-9891eaa468f7.jpg",
+        "isCheck": false
+      },
+      {
+        "nama": "[5 meter] Mutiara Rantai PERAK SILVER 3 mm/Lada/Renteng Hiasan Mahar - PERAK 5 meter",
+        "jumlah": 1,
+        "harga": 5000,
+        "diskon": 0,
+        "gambar": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2023/1/14/fe02ce2e-d35e-409e-b185-4b7ca1643cbd.jpg",
+        "isCheck": false
+      }
+    ],
+    "isCheck": false
+  },
+  {
+    "toko": "TOKO MundurJaya",
+    "barang": [
+      {
+        "nama": "HP Laserjet P1102 BLACK Catridge (CE285A) Tonner 85A ORIGINAL JAMIN!!!",
+        "jumlah": 1,
+        "harga": 750000,
+        "diskon": 20,
+        "gambar": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/10/7/c23f7f7f-af79-46c6-91d5-0c3ec66e97e5.jpg",
+        "isCheck": false
+      },
+      {
+        "nama": "RX 580 8GB POWER COLOR RED DEVIL 256BIT VGA",
+        "jumlah": 1,
+        "harga": 3000000,
+        "diskon": 15,
+        "gambar": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/10/6/f408ca9e-30a7-4d07-8229-123b3c5a392d.jpg",
+        "isCheck": false
+      },
+      {
+        "nama": "Adaptor Lenovo 20v 2.25a colokan petak kuning original",
+        "jumlah": 1,
+        "harga": 110000,
+        "diskon": 0,
+        "gambar": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/9/24/d83bcbc3-160f-4d1f-9979-2377daa6ef2b.jpg",
+        "isCheck": false
+      }
+    ],
+    "isCheck": false
+  },
+  {
+    "toko": "Toko-Beatrix",
+    "barang": [
+      {
+        "nama": "Kentang Goreng Beku Shoestring Lurus Belfoods Siap Masak - 200 gr",
+        "jumlah": 1,
+        "harga": 14000,
+        "diskon": 20,
+        "gambar": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/12/9/fc02da51-a729-4e47-968c-492926fdc2b7.jpg",
+        "isCheck": false
+      },
+      {
+        "nama": "Ayam Goreng Korea ROYAL Gangnam Chicken BELFOODS 200 gr",
+        "jumlah": 1,
+        "harga": 40000,
+        "diskon": 0,
+        "gambar": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/11/12/1c4b9c8a-516f-47af-92b8-91e60a68df0d.jpg",
+        "isCheck": false
+      },
+      {
+        "nama": "Sosis Ayam Chicken Sausage BELFOODS isi 6 200 gr siap masak",
+        "jumlah": 1,
+        "harga": 14000,
+        "diskon": 0,
+        "gambar": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/11/12/c6889ce0-8391-47b6-889b-089aaff56d41.jpg",
+        "isCheck": false
+      },
+      {
+        "nama": "Dada Ayam Fillet Boneless Skinless Tanpa Tulang Tanpa Kulit Beku - 1 kg",
+        "jumlah": 1,
+        "harga": 60000,
+        "diskon": 0,
+        "gambar": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/10/31/2a6d2770-db46-4c08-a1eb-66ff7a236288.jpg",
+        "isCheck": false
+      },
+      {
+        "nama": "Es Krim Ice Cream AICE Mochi Coklat Vanilla",
+        "jumlah": 1,
+        "harga": 3500,
+        "diskon": 0,
+        "gambar": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/8/1/fc9bfd73-ec84-4956-96f7-7364c5552c88.jpg",
+        "isCheck": false
+      }
+    ],
+    "isCheck": false
+  },
+  {
+    "toko": "Toko Medis Medical",
+    "barang": [
+      {
+        "nama": "rapid test swab antigen hidung",
+        "jumlah": 1,
+        "harga": 35000,
+        "diskon": 0,
+        "gambar": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/10/12/5a62451b-1cee-495d-a063-6637d269e3b0.jpg",
+        "isCheck": false
+      },
+      {
+        "nama": "antigen abbott nasal original",
+        "jumlah": 1,
+        "harga": 865000,
+        "diskon": 0,
+        "gambar": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/10/12/cbaa0a53-3762-41f5-a085-e1fe0ea5e9cf.jpg",
+        "isCheck": false
+      },
+      {
+        "nama": "saliva air liur antigen air liur lungene",
+        "jumlah": 1,
+        "harga": 28500,
+        "diskon": 0,
+        "gambar": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/10/12/56393253-badc-4e74-89ba-1e03bb29f81f.jpg",
+        "isCheck": false
+      }
+    ],
+    "isCheck": false
+  }
+]
